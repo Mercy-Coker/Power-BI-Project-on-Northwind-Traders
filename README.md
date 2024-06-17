@@ -1,1 +1,1 @@
-# Power-BI-Project-on-Northwind-Traders
+#### Data-oriented insights for Northwind Traders: Sales Analysis and Recommendations
