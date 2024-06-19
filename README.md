@@ -75,7 +75,11 @@ The following conclusions and recommendations can be made based on the analysis 
 - Further investigation on customer behavior and preferences could provide valuable insights for targeted marketing campaigns.
 
 
-The full project can be accessed 
+THE FULL REPORT CAN BE SEEN BELOW.
+
+![Screenshot 2024-06-17 175358](https://github.com/Mercy-Coker/Power-BI-Project-on-Northwind-Traders/assets/163846267/e531f20e-7931-4e17-aeb5-bff3c34e0e9c)
+
+![Screenshot 2024-06-17 175844](https://github.com/Mercy-Coker/Power-BI-Project-on-Northwind-Traders/assets/163846267/14958b30-c447-4608-90c4-b0c6a14b1d18)
 
 
 
