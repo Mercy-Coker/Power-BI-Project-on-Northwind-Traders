@@ -67,8 +67,15 @@ Customer Choice of Shippers: United package was the most commonly used shipper, 
 
 ## CONCLUSION AND RECOMMENDATIONS
 
+The following conclusions and recommendations can be made based on the analysis conducted:
+
+- Northwind Traders experienced significant sales growth from Jan 2015 - April 2015 but witnessed a sudden decline in sales by May 2015, requiring further investigation.
+- The best-selling product categories and best selling products should be prioritized for inventory management and marketing strategies.
+- Partnership with the United Package Shipping Company has proven beneficial.
+- Further investigation on customer behavior and preferences could provide valuable insights for targeted marketing campaigns.
 
 
+The full project can be accessed 
 
 
 
