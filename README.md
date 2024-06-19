@@ -47,7 +47,6 @@ Sales Trend Over Time: A steady growth was experienced in sales records from Jan
 Product Analysis: The most frequently sold product category was the Beverages cateory with a total revenue of $122,224 generated. The highest selling product was cote de Blaye with a total revenue of $68,510 generated, and the lowest selling product was Louisana hot spiced okra which generated a total revenue of $17.
 
 ![Screenshot 2024-06-17 175616](https://github.com/Mercy-Coker/Power-BI-Project-on-Northwind-Traders/assets/163846267/a036cc47-d7d7-42fb-862c-28f3e0600475)
-
 ![Screenshot 2024-06-17 175523](https://github.com/Mercy-Coker/Power-BI-Project-on-Northwind-Traders/assets/163846267/c98f9bc4-25de-4b9b-8e1c-f1c01b943268)
 
 
