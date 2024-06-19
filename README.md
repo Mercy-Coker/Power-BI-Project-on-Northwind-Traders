@@ -51,6 +51,23 @@ Product Analysis: The most frequently sold product category was the Beverages ca
 ![Screenshot 2024-06-17 175523](https://github.com/Mercy-Coker/Power-BI-Project-on-Northwind-Traders/assets/163846267/c98f9bc4-25de-4b9b-8e1c-f1c01b943268)
 
 
+#### Customer Behaviour
+
+Number of Customer: Between Jan 2015 - May2015, a total of 81 different customers with a total of 270 orders was recorded. The highest order by customer was seen in April with 74 orders. The company (customer) who patronized more was Save-a-lot Markets, followed by Ernst Handel company and thus, contributed to the majority of the revenue generated.
+
+![Screenshot 2024-06-17 175909](https://github.com/Mercy-Coker/Power-BI-Project-on-Northwind-Traders/assets/163846267/e30f7860-36ca-4edb-8c6c-24d1fc2bc86a)
+
+![Screenshot 2024-06-17 175740](https://github.com/Mercy-Coker/Power-BI-Project-on-Northwind-Traders/assets/163846267/3c816a66-7730-4571-8814-57b4752d1310)
+
+
+Customer Choice of Shippers: United package was the most commonly used shipper, and the most preffered by customer with a percentage of 43.33%.
+
+![Screenshot 2024-06-17 175722](https://github.com/Mercy-Coker/Power-BI-Project-on-Northwind-Traders/assets/163846267/c225a3ae-1cfa-4490-8fb9-f5b851aedabc)
+
+
+
+
+
 
 
 
